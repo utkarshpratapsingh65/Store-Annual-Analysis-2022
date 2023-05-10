@@ -1,0 +1,4 @@
+# Store-Annual-Analysis-2022
+The Store annual analysis project involved analyzing a retail store's sales data over the course of a year using Microsoft Excel to gain insights into consumer behavior and inform business decisions. The project required the collection and analysis of data from various sources, including sales reports, customer feedback, and market research.
+The project's results can be used to inform business decisions and optimize operations in order to increase profitability and improve customer satisfaction. For example, the store can increase its inventory for popular products and target marketing efforts towards the most profitable customer segments.
+Final Conclusion to improve Store sales, target women customers of age group (30-49 yrs) living in Maharashtra, karnataka and Utter Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
